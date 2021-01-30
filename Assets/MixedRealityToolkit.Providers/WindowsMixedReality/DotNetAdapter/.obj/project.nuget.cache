@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCxXrRvYguRClUtiUFSyB7nriaKWEm3suNmNHm+StjyV4ApQLIIwQO4WfLTq0BNeG8fk4XAvFHH4tUxlXplf+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pique993\\Desktop\\MixedRealityBenchmark\\Assets\\MixedRealityToolkit.Providers\\WindowsMixedReality\\DotNetAdapter\\DotNetAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pique993\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\msbuildforunity\\0.8.3\\msbuildforunity.0.8.3.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pique993\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
